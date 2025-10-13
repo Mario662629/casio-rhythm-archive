@@ -34,8 +34,8 @@ I am copying various built-in rhythms from Casio keyboards. The purpose of this 
 1. Select the rhythm you want to copy.
 2. Press both of the tempo buttons at once to set the tempo to the reccomended.
 Follow the instructions under "To edit and save an Auto Accompaniement" in the chapter "Editing Auto Accompaniement Patterns" in the user manual: https://www.casio.com/content/dam/casio/global/support/manuals/electronic-musical-instruments/pdf/008-en/w/Web_CTK5200-ES-1B_EN.pdf. If you have a keyboard in either the CTK-4000 or CTK-5000 sets, the [ENTER] button on the 10-key pad is 7, otherwise it is [9]. 
-  * Skip steps 4 through 9, so you don't make any changes to the rhythm.
-  * Once you reach step 11.2, do not edit the user rhythm name. Instead, skip to step 12, and press [+]. The rhythm should be saved.
+3. Skip steps 4 through 9, so you don't make any changes to the rhythm.
+4. Once you reach step 11.2, do not edit the user rhythm name. Instead, skip to step 12, and press [+]. The rhythm should be saved.
 If "Err Mem Full" appears on the display during the process, delete some other unused data in keyboard memory, then retry.
 
 ### Copying the rhythm file to a computer:
